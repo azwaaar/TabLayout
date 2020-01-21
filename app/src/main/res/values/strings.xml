@@ -1,0 +1,257 @@
+<resources>
+    <!-- string awal bawaan -->
+    <string name="app_name">Sub-2-Azwar</string>
+
+    <!-- ini buat translate -->
+    <string name="tab_movie">Movie</string>
+    <string name="tab_tvshow">TV Show</string>
+    <string name="change_language">Change Language</string>
+    <string name="txt_overview">Overview</string>
+    <string name="txt_release_date">Release</string>
+    <string name="txt_language">Language</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_creator">Creator</string>
+    <string name="txt_status">Status</string>
+
+    <string name="ov_a_star">
+        Seasoned musician Jackson Maine discovers - and falls in love with - struggling artist Ally.
+        She has just about given up on her dream to make it big as a singer - until Jack coaxes her into the spotlight.
+        But even as Ally\'s career takes off, the personal side of their relationship is breaking down,
+        as Jack fights an ongoing battle with his own internal demons.
+    </string>
+
+    <string name="ov_aquamen">
+        Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm.
+        With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world.
+        Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.
+    </string>
+
+    <string name="ov_avenger">
+        As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle,
+        a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones,
+        artifacts of unimaginable power, and use them to inflict his twisted will on all of reality.
+        Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.
+    </string>
+
+    <string name="ov_glass">
+        In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb,
+        a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
+    </string>
+
+    <string name="ov_hunter_killer">
+        Captain Glass of the USS Arkansas discovers that a coup d\'etat is taking place in Russia,
+        so he and his crew join an elite group working on the ground to prevent a war.
+    </string>
+    <string name="ov_marry">
+        In Depression-era London, a now-grown Jane and Michael Banks, along with Michael\'s three children,
+        are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills,
+        and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.
+    </string>
+
+    <string name="ov_robin">
+        A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.
+    </string>
+
+    <string name="ov_the_girl">
+        In Stockholm, Sweden, hacker Lisbeth Salander is hired by Frans Balder, a computer engineer, to retrieve a program that he believes it is too dangerous to exist.
+    </string>
+
+    <string name="ov_the_mule">
+        Earl Stone, a man in his eighties, is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive.
+        Easy enough, but, unbeknownst to Earl, he\'s just signed on as a drug courier for a Mexican cartel. He does so well that his cargo increases exponentially,
+        and Earl hit the radar of hard-charging DEA agent Colin Bates.
+    </string>
+
+    <string name="ov_deadpool">
+        A kidnapped Fred Savage is forced to endure Deadpool\'s PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that\'s full of magic, wonder and zero F\'s.
+    </string>
+
+    <string-array name="data_title_film">
+        <item>A Star Is born</item>
+        <item>Aquaman</item>
+        <item>Avengers : Infinity War</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>Mary Poppins Returns</item>
+        <item>Robin Hood</item>
+        <item>The Girl in The Spider\'s Web</item>
+        <item>The Mule</item>
+        <item>Once Upon a Deadpool</item>
+    </string-array>
+
+    <array name="data_poster_film">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_deadpool</item>
+    </array>
+
+    <string-array name="data_overview_film">
+        <item>@string/ov_a_star</item>
+        <item>@string/ov_aquamen</item>
+        <item>@string/ov_avenger</item>
+        <item>@string/ov_glass</item>
+        <item>@string/ov_hunter_killer</item>
+        <item>@string/ov_marry</item>
+        <item>@string/ov_robin</item>
+        <item>@string/ov_the_girl</item>
+        <item>@string/ov_the_mule</item>
+        <item>@string/ov_deadpool</item>
+    </string-array>
+
+    <string-array name="data_tahun_film">
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+    </string-array>
+
+    <string-array name="data_bahasa_film">
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+    </string-array>
+    <!-- movie sampe sini-->
+
+    <!-- lanjut yang tv shownye-->
+    <string name="ov_grey_an">
+        Follows the personal and professional lives of a group of doctors at Seattle\’s Grey Sloan Memorial Hospital.
+    </string>
+
+    <string name="ov_supernatural">
+        When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers.
+        He taught them about the paranormal evil that lives in the dark corners and on the back roads of America . and he taught them how to kill it. Now,
+        the Winchester brothers crisscross the country in their \'67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.
+    </string>
+
+    <string name="ov_ncis">
+        From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any
+        crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.
+    </string>
+
+    <string name="ov_hana">
+        This thriller and coming-of-age drama follows the journey of an extraordinary young girl as she evades the
+        relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is. Based on the 2011 Joe Wright film.
+    </string>
+
+    <string name="ov_marvels_iron">
+        Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.
+    </string>
+
+    <string name="ov_the_simpsons">
+        Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family, Homer, Marge, Bart, Lisa and Maggie,
+        as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting
+        hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.
+    </string>
+
+    <string name="ov_dragon_ball">
+        Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died.
+        The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma,
+        whose search for the mystical Dragon Balls brought her to Goku\'s home. Together, they set off to find all seven and to grant her wish.
+    </string>
+
+    <string name="ov_naruto">
+        Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly
+        more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru.
+        After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work,
+        though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization. Akatsuki.
+    </string>
+
+    <string name="ov_doom_patrol">
+        The Doom Patrol\’s members each suffered horrible accidents that gave them superhuman abilities - but also left them scarred
+        and disfigured. Traumatized and downtrodden, the team found purpose through The Chief,
+        who brought them together to investigate the weirdest phenomena in existence - and to protect Earth from what they find.
+    </string>
+
+    <string name="ov_family_guy">
+        Sick, twisted, politically incorrect and Freakin\' Sweet animated series featuring the adventures of the dysfunctional Griffin family.
+        Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world),
+        Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he\'s not very bright but has a passion for movies).
+        The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.
+    </string>
+
+    <string-array name="data_ov_tvshow">
+        <item>@string/ov_grey_an</item>
+        <item>@string/ov_supernatural</item>
+        <item>@string/ov_ncis</item>
+        <item>@string/ov_hana</item>
+        <item>@string/ov_marvels_iron</item>
+        <item>@string/ov_the_simpsons</item>
+        <item>@string/ov_dragon_ball</item>
+        <item>@string/ov_naruto</item>
+        <item>@string/ov_doom_patrol</item>
+        <item>@string/ov_family_guy</item>
+
+    </string-array>
+    <string-array name="data_title_tvshow">
+        <item>Grey\’s anatomy (2005)</item>
+        <item>Supernatural (2005)</item>
+        <item>NCIS (2003)</item>
+        <item>Hana (2019)</item>
+        <item>Marvels Iron Fist (2017)</item>
+        <item>The Simpsons (1989)</item>
+        <item>Dragon Ball</item>
+        <item>Naruto Shippuden (2007)</item>
+        <item>Doom Patrol (2019)</item>
+        <item>Family Guy(1999)</item>
+    </string-array>
+
+    <string-array name="data_creator_tvshow">
+        <item>Shonda Rhimes</item>
+        <item>Eric Kripkea</item>
+        <item>Don McGill</item>
+        <item>David Farr</item>
+        <item>Scott Buck</item>
+        <item>Matt Groening</item>
+        <item>Akira Toriyama</item>
+        <item>-</item>
+        <item>Jeremy Carver</item>
+        <item>Seth MacFarlane</item>
+    </string-array>
+
+    <array name="data_poster_tv">
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_supernatural</item>
+        <item>@drawable/poster_ncis</item>
+        <item>@drawable/poster_hanna</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_family_guy</item>
+    </array>
+
+    <string-array name="data_status">
+        <item>Running Series</item>
+        <item>Running series</item>
+        <item>Returning series</item>
+        <item>Returning series</item>
+        <item>Canceled</item>
+        <item>Returning Series</item>
+        <item>Ended</item>
+        <item>Ended</item>
+        <item>Returning Series</item>
+        <item>Returning Series</item>
+    </string-array>
+
+</resources>

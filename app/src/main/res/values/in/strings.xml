@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sub-2-Azwar</string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_tvshow">Acara Tv</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="txt_overview">ikhtisar</string>
+    <string name="txt_release_date">Rilis</string>
+    <string name="txt_language">Bahasa</string>
+    <string name="txt_title">Judul</string>
+    <string name="txt_creator">Pencipta</string>
+    <string name="txt_status">Status</string>
+
+    <!--Start Movie-->
+    <string name="ov_a_star">
+        Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally.
+        Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan.
+        Tetapi bahkan ketika karir Ally lepas landas, sisi pribadi dari hubungan mereka rusak,
+        saat Jack bertarung terus-menerus dengan iblis internalnya sendiri.
+    </string>
+    <string name="ov_aquamen">
+        Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan.
+        Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan.
+        Yang menghalangi jalannya adalah Arthur Curry, saudara setengah manusia, setengah saudara lelaki Atlantis dan pewaris sejati takhta.
+    </string>
+    <string name="ov_avenger">
+        Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan,
+        bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity,
+        artefak dari kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan.
+        Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.
+    </string>
+    <string name="ov_glass">
+        Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernatural untuk melacak Kevin Wendell Crumb,
+        seorang pria terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya.
+    </string>
+    <string name="ov_hunter_killer">
+        Kapten Glass dari USS Arkansas menemukan bahwa kudeta sedang terjadi di Rusia,
+        jadi ia dan krunya bergabung dengan kelompok elit yang bekerja di lapangan untuk mencegah perang.
+    </string>
+    <string name="ov_marry">
+        Di London era Depresi, Jane dan Michael Banks yang sudah dewasa, bersama tiga anak Michael,
+        dikunjungi oleh Mary Poppins yang penuh teka-teki setelah kehilangan pribadi. Melalui keterampilan magisnya yang unik,
+        dan dengan bantuan temannya Jack, dia membantu keluarga menemukan kembali sukacita dan keajaiban yang hilang dalam hidup mereka.
+    </string>
+    <string name="ov_robin">
+        Seorang pejuang perang yang keras dan komandan Moornya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.
+    </string>
+    <string name="ov_the_girl">
+        Di Stockholm, Swedia, peretas Lisbeth Salander disewa oleh Frans Balder, seorang insinyur komputer, untuk mengambil program yang menurutnya terlalu berbahaya untuk ada.
+    </string>
+    <string name="ov_the_mule">
+        Earl Stone, seorang pria berusia delapan puluhan, bangkrut, sendirian, dan menghadapi penyitaan bisnisnya ketika ia ditawari pekerjaan yang hanya mengharuskannya mengemudi.
+        Cukup mudah, tetapi, tanpa diketahui Earl, dia baru saja mendaftar sebagai kurir narkoba untuk kartel Meksiko. Dia melakukannya dengan baik sehingga muatannya meningkat secara eksponensial,
+        dan Earl menabrak radar agen DEA yang sibuk mengisi daya.
+    </string>
+    <string name="ov_deadpool">
+        Fred Savage yang diculik dipaksa untuk menanggung Deadpool 2 PG-13 rendition Deadpool 2 sebagai kisah Putri Pengantin yang penuh dengan keajaiban, keajaiban, dan nol F.
+    </string>
+
+    <string-array name="data_title_film">
+        <item>A Star Is born</item>
+        <item>Aquaman</item>
+        <item>Avengers : Infinity War</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>Mary Poppins Returns</item>
+        <item>Robin Hood</item>
+        <item>The Girl in The Spider\'s Web</item>
+        <item>The Mule</item>
+        <item>Once Upon a Deadpool</item>
+    </string-array>
+
+    <array name="data_poster_film">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_deadpool</item>
+    </array>
+
+    <string-array name="data_overview_film">
+        <item>@string/ov_a_star</item>
+        <item>@string/ov_aquamen</item>
+        <item>@string/ov_avenger</item>
+        <item>@string/ov_glass</item>
+        <item>@string/ov_hunter_killer</item>
+        <item>@string/ov_marry</item>
+        <item>@string/ov_robin</item>
+        <item>@string/ov_the_girl</item>
+        <item>@string/ov_the_mule</item>
+        <item>@string/ov_deadpool</item>
+    </string-array>
+
+    <string-array name="data_tahun_film">
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+    </string-array>
+
+    <string-array name="data_bahasa_film">
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+    </string-array>
+    <!--=================================end Movie===========================-->
+
+
+    <!--Start TvShow-->
+
+    <string name="ov_grey_an">
+        Mengikuti kehidupan pribadi dan profesional sekelompok dokter di Rumah Sakit Gray Sloan Memorial di Seattle.
+    </string>
+    <string name="ov_supernatural">
+        Ketika mereka masih kecil, Sam dan Dean Winchester kehilangan ibu mereka karena kekuatan gaib yang misterius dan iblis. Selanjutnya, ayah mereka membesarkan mereka menjadi tentara.
+        Dia mengajar mereka tentang kejahatan paranormal yang hidup di sudut-sudut gelap dan di jalan belakang Amerika. dan dia mengajari mereka cara membunuhnya. Sekarang,
+        saudara-saudara Winchester menjelajahi negara itu dengan Chevy Impala mereka, melawan semua jenis ancaman gaib yang mereka temui di sepanjang jalan.
+    </string>
+    <string name="ov_ncis">
+        Dari pembunuhan dan spionase hingga terorisme dan kapal selam curian, tim agen khusus menyelidiki siapa pun
+        kejahatan yang memiliki sedikit bukti yang terhubung dengan personel Angkatan Laut dan Korps Marinir, terlepas dari pangkat atau posisi.
+    </string>
+    <string name="ov_hana">
+        Drama yang menegangkan dan menjadi dewasa ini mengikuti perjalanan seorang gadis muda yang luar biasa ketika dia menghindarinya
+        pengejaran tanpa henti dari agen CIA off-book dan mencoba untuk menggali kebenaran di balik siapa dia. Berdasarkan film Joe Wright 2011.
+    </string>
+    <string name="ov_marvels_iron">
+        Danny Rand muncul kembali 15 tahun setelah dianggap mati. Sekarang, dengan kekuatan Iron Fist, ia berusaha untuk merebut kembali masa lalunya dan memenuhi takdirnya.
+    </string>
+    <string name="ov_the_simpsons">
+        Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson, Homer, Marge, Bart, Lisa dan Maggie,
+        serta pemain virtual ribuan. Sejak awal, seri ini telah menjadi ikon budaya pop, menarik
+        ratusan selebritas menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum.
+    </string>
+    <string name="ov_dragon_ball">
+        Dahulu kala di pegunungan, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang bocah aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati.
+        Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Lalu suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma,
+        yang pencariannya untuk Bola Naga mistis membawanya ke rumah Goku. Bersama-sama, mereka berangkat untuk menemukan ketujuh dan mengabulkan keinginannya.
+    </string>
+    <string name="ov_naruto">
+        Naruto Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. Ceritanya berkisar yang lebih tua dan sedikit
+        Uzumaki Naruto semakin matang dan upayanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman Shinobi seperti ular, Orochimaru.
+        Setelah 2 setengah tahun, Naruto akhirnya kembali ke desanya Konoha, dan mulai mewujudkan ambisinya,
+        meskipun itu tidak akan mudah, karena Dia telah mengumpulkan beberapa musuh (lebih berbahaya), seperti organisasi shinobi. Akatsuki.
+    </string>
+    <string name="ov_doom_patrol">
+        Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super - tetapi juga membuat mereka terluka.
+        dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua,
+        yang membawa mereka bersama untuk menyelidiki fenomena paling aneh yang ada - dan untuk melindungi Bumi dari apa yang mereka temukan.
+    </string>
+    <string name="ov_family_guy">
+        Seri animasi manis, Freakin, Twisted, salah secara politik dan Freakin menampilkan petualangan keluarga Griffin yang disfungsional.
+        Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang cerdas tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia),
+        Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki hasrat untuk film).
+        Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia menjaga Stewie, sementara menghirup Martinis dan memilah-milah masalah hidupnya sendiri.
+    </string>
+
+    <string-array name="data_ov_tvshow">
+        <item>@string/ov_grey_an</item>
+        <item>@string/ov_supernatural</item>
+        <item>@string/ov_ncis</item>
+        <item>@string/ov_hana</item>
+        <item>@string/ov_marvels_iron</item>
+        <item>@string/ov_the_simpsons</item>
+        <item>@string/ov_dragon_ball</item>
+        <item>@string/ov_naruto</item>
+        <item>@string/ov_doom_patrol</item>
+        <item>@string/ov_family_guy</item>
+
+    </string-array>
+    <string-array name="data_title_tvshow">
+        <item>Grey\’s anatomy (2005)</item>
+        <item>Supernatural (2005)</item>
+        <item>NCIS (2003)</item>
+        <item>Hana (2019)</item>
+        <item>Marvels Iron Fist (2017)</item>
+        <item>The Simpsons (1989)</item>
+        <item>Dragon Ball</item>
+        <item>Naruto Shippuden (2007)</item>
+        <item>Doom Patrol (2019)</item>
+        <item>Family Guy(1999)</item>
+    </string-array>
+
+    <string-array name="data_creator_tvshow">
+        <item>Shonda Rhimes</item>
+        <item>Eric Kripkea</item>
+        <item>Don McGill</item>
+        <item>David Farr</item>
+        <item>Scott Buck</item>
+        <item>Matt Groening</item>
+        <item>Akira Toriyama</item>
+        <item>-</item>
+        <item>Jeremy Carver</item>
+        <item>Seth MacFarlane</item>
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Seri Berjalan</item>
+        <item>Seri Berjalan</item>
+        <item>Seri kembali</item>
+        <item>Seri kembali</item>
+        <item>Dibatalkan</item>
+        <item>Seri kembalis</item>
+        <item>Berakhir</item>
+        <item>Berakhir</item>
+        <item>Seri kembali</item>
+        <item>Seri kembali</item>
+    </string-array>
+    <array name="data_poster_tv">
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_supernatural</item>
+        <item>@drawable/poster_ncis</item>
+        <item>@drawable/poster_hanna</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_family_guy</item>
+    </array>
+
+
+    <!--End tvShow-->
+</resources>
